@@ -155,7 +155,6 @@ function draw(){
   block23.score();
   block24.score();
   block25.score();
-
  
 }
 
